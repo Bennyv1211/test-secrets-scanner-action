@@ -1,0 +1,13 @@
+{
+    "database": {
+        "username": "admin",
+        "password": "Password123!"
+    },
+    "aws": {
+        "accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+        "secretAccessKey": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+    },
+    "api": {
+        "key": "abcdef123456-dummyAPIkey"
+    }
+}
