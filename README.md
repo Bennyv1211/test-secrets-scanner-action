@@ -6,4 +6,4 @@ adfB
 
 KLL;
  
-s trx
+s tr
